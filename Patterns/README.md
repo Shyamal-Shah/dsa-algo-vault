@@ -107,3 +107,52 @@ This directory contains various pattern generation scripts in Python. Each scrip
 *
 ```
 
+11. [Binary Number Triangle](https://www.naukri.com/code360/problems/binary-number-triangle_6581890)
+
+- [Solution](./pattern_11.py)
+
+```
+1
+0 1
+1 0 1
+```
+
+12. [Number Crown](https://www.naukri.com/code360/problems/number-crown_6581894)
+
+- [Solution](./pattern_12.py)
+
+```
+1         1
+1 2     2 1
+1 2 3 3 2 1
+```
+
+13. [Increasing Number Triangle](https://www.naukri.com/code360/problems/increasing-number-triangle_6581893)
+
+- [Solution](./pattern_13.py)
+
+```
+1
+2 3
+4 5 6
+```
+
+14. [Increasing Letter Triangle](https://www.naukri.com/code360/problems/increasing-letter-triangle_6581897)
+
+- [Solution](./pattern_14.py)
+
+```
+A
+A B
+A B C
+```
+
+15. [Reverse Letter Triangle](https://www.naukri.com/code360/problems/reverse-letter-triangle_6581906)
+
+- [Solution](./pattern_15.py)
+
+```
+A B C
+A B
+A
+```
