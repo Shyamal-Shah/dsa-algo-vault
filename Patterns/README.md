@@ -156,3 +156,80 @@ A B C
 A B
 A
 ```
+
+16. [Alpha-Ramp](https://www.naukri.com/code360/problems/alpha-ramp_6581888)
+
+- [Solution](./pattern_16.py)
+
+```
+A
+B B
+C C C
+```
+
+17. [Alpha Hill](https://www.naukri.com/code360/problems/alpha-hill_6581921)
+
+- [Solution](./pattern_17.py)
+
+```
+    A
+  A B A
+A B C B A
+```
+
+18. [Alpha-Triangle](https://www.naukri.com/code360/problems/alpha-triangle_6581429)
+
+- [Solution](./pattern_18.py)
+
+```
+C
+C B
+C B A
+```
+
+19. [Symmetric Void](https://www.naukri.com/code360/problems/symmetric-void_6581919)
+
+- [Solution](./pattern_19.py)
+
+```
+* * * * * *
+* *     * *
+*         *
+*         *
+* *     * *
+* * * * * *
+```
+
+20. [Symmetry](https://www.naukri.com/code360/problems/symmetry_6581914)
+
+- [Solution](./pattern_20.py)
+
+```
+*         *
+* *     * *
+* * * * * *
+* *     * *
+*         *
+```
+
+21. [Ninja And The Star Pattern I](https://www.naukri.com/code360/problems/ninja-and-the-star-pattern-i_6581920)
+
+- [Solution](./pattern_21.py)
+
+```
+***
+* *
+***
+```
+
+22. [Ninja And The Number Pattern](https://www.naukri.com/code360/problems/ninja-and-the-number-pattern-i_6581959)
+
+- [Solution](./pattern_22.py)
+
+```
+33333
+32223
+32123
+32223
+33333
+```
